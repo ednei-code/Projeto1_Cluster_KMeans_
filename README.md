@@ -8,12 +8,21 @@ Este conjunto de dados foi obtido do [governo dos EUA Open Data Initiative] (htt
 
 Governo local, Connecticut
 O objetivo desta analise sera responder perguntas sobre o impacto que as droga tiveram em tais óbitos.
-
+==============================================================================================================================
 
 Algumas informacoes sobre o estado de Connecticut: Connecticut (ou Coneticute[2] ou Conecticute) é um dos 50 estados dos Estados Unidos, localizado na região da Nova Inglaterra. Connecticut é o terceiro menor estado norte-americano em extensão territorial; somente Delaware e Rhode Island são menores. Connecticut é o quarto estado norte-americano mais densamente povoado do país. A principal fonte de renda de Connecticut é a prestação de serviços financeiros e imobiliários.
 ==============================================================================================================================
-Objetivo: Criar um modelo de cluster usando o algoritmo k_means, PCA para redução de dimensionalidade e a métrica silhuette_score.Fa que usouzer comparações e entender o relacionamento criado pelo algoritmo.
-==============================================================================================================================Atenção: Toda mudança, transformação , criação de variáveis nesse projeto são de responsabilidade do Author que usou este projeto simplemente para demonstrar seu conhecimento em Data Science. Não existe a presunção de provar teses com respeito ao tema "Óbito por Drogas", simplesmente demonstrar conhecimento em Ánalise de Dados como forma de divulgar meu Portfólio.
+Objetivo: Criar um modelo de cluster usando o algoritmo k_means, PCA para redução de dimensionalidade e a métrica silhuette_score para fazer comparações e entender o relacionamento criado pelo algoritmo.
+==============================================================================================================================
+O projeto esta divido em três cadernos(notebooks):
+1 - https://github.com/ednei-code/Projeto1_Cluster_KMeans_/blob/main/Mortes_Por_Drogas_part_I.ipynb
+Uma análise inical dos Dados encontrar relacionementos e fazer algumas possiveis mudanças.
+2 - https://github.com/ednei-code/Projeto1_Cluster_KMeans_/blob/main/Mortes_Por_Drogas_Analise_Exploratoria_part_II.ipynb
+Uma análise exploratória onde são escolhidas as variáveis que estarão no Modelo de Cluster.
+3 - https://github.com/ednei-code/Projeto1_Cluster_KMeans_/blob/main/Morte_Por_Drogas_Cluster_part_III.ipynb
+E por fim a criação do modelo de Cluterizaçao usando o algoritmo K-means.
+==============================================================================================================================
+Atenção: Toda mudança, transformação , criação de variáveis nesse projeto são de responsabilidade do Author que usou este projeto simplemente para demonstrar seu conhecimento em Data Science. Não existe a presunção de provar teses com respeito ao tema "Óbito por Drogas", simplesmente demonstrar conhecimento em Ánalise de Dados como forma de divulgar meu Portfólio.
 
 Grato,
 Ednei;
