@@ -9,6 +9,18 @@ Este conjunto de dados foi obtido do [governo dos EUA Open Data Initiative] (htt
 Governo local, Connecticut
 O objetivo desta analise sera responder perguntas sobre o impacto que as droga tiveram em tais óbitos.
 
-Criar um modelo de cluster usando o algoritmo k_means, PCA para redução de dimensionalidade e a métrica silhuette_score.
 
 Algumas informacoes sobre o estado de Connecticut: Connecticut (ou Coneticute[2] ou Conecticute) é um dos 50 estados dos Estados Unidos, localizado na região da Nova Inglaterra. Connecticut é o terceiro menor estado norte-americano em extensão territorial; somente Delaware e Rhode Island são menores. Connecticut é o quarto estado norte-americano mais densamente povoado do país. A principal fonte de renda de Connecticut é a prestação de serviços financeiros e imobiliários.
+==============================================================================================================================
+Objetivo: Criar um modelo de cluster usando o algoritmo k_means, PCA para redução de dimensionalidade e a métrica silhuette_score.Fa que usouzer comparações e entender o relacionamento criado pelo algoritmo.
+==============================================================================================================================Atenção: Toda mudança, transformação , criação de variáveis nesse projeto são de responsabilidade do Author que usou este projeto simplemente para demonstrar seu conhecimento em Data Science. Não existe a presunção de provar teses com respeito ao tema "Óbito por Drogas", simplesmente demonstrar conhecimento em Ánalise de Dados como forma de divulgar meu Portfólio.
+
+Grato,
+Ednei;
+==============================================================================================================================
+Agradecimento DSA! , onde adquiri e continuo buscando toda base de conhecimento necessário.
+
+==============================================================================================================================
+Se alguem se interessar em usar códigos está totalmente liberado, ou alguma critica pelo andamento do projeto também está aceito pode entrar em contato.
+==============================================================================================================================
+Por ultimo: Se voçê tiver um projeto de Data Science e queira me contratar estou a dispor: https://www.linkedin.com/in/ednei-cunha-vicente-551b64187/
